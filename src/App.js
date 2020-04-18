@@ -1,26 +1,16 @@
-import React from 'react';
-import './App.css'
-import Page1 from './Page1'
-import Page2 from './Page2'
-//  import Routes from './Routes'
+import React from "react";
+import "./App.css";
+// import Test from './Test'
+import CheckApp from "./CheckApp";
 
-// import { connect } from 'react-redux';
-
-class App extends React.Component{
-
-  render(){
-  return(
-  <div>
-    <Page1 />
-    <br />
-    <Page2 />
-  </div>
-  )
-   
+class App extends React.Component {
+  render() {
+    return (
+      <div>
+        <CheckApp />
+      </div>
+    );
   }
- 
 }
 
 export default App;
-
-

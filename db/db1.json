@@ -1,0 +1,48 @@
+{
+  "getdata": [
+    {
+      "id": 1,
+      "name": "nitin",
+      "address": "haldwani",
+      "salary": "34000"
+    },
+    {
+      "id": 2,
+      "name": "rupa",
+      "address": "gurgaon",
+      "salary": "24000"
+    },
+    {
+      "id": 3,
+      "name": "chandni",
+      "address": "delhi",
+      "salary": "22000"
+    },
+    {
+      "id": 4,
+      "name": "vini",
+      "address": "ramnagar",
+      "salary": "54000"
+    },
+    {
+      "id": 5,
+      "name": "rohit",
+      "address": "mumbai",
+      "salary": "14000"
+    }
+  ],
+  "post": [
+    {
+      "id": "2",
+      "entry": "2123"
+    },
+    {
+      "entry": "3876",
+      "id": "ZVGsYfw"
+    },
+    {
+      "entry": "3876",
+      "id": "EnDIVaj"
+    }
+  ]
+}

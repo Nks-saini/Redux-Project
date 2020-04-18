@@ -12,7 +12,6 @@ function Page(props) {
 
 
 
-
   function submit() {
     const frmdetails = {
       mobile: mobile,
